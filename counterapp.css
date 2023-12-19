@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    height: 100vh;
+    background-image: url("https://res.cloudinary.com/dzxtcyc3t/image/upload/v1702977909/counter_background_image_lkfe3n.jpg");
+    background-size: cover;
+}
+
+.counter-card {
+    
+    border-width: 2px;
+    width: auto;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.counter-heading {
+    font-size: 50px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: darkturquoise;
+}
+
+.counter-value {
+    font-size: 75px;
+    font-weight: 900;
+    color: lightgray;
+}
+
+.button {
+    margin: 8px;
+    border-radius: 7px;
+    padding: 5px;
+    border-width: 0px;
+    border-color: black;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
